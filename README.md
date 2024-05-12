@@ -1,20 +1,20 @@
 # Capturing Creativity: Chronicles of the Wikimedia Hackathon 2024
 
-![Image Alt Text](https://commons.wikimedia.org/wiki/File:Wikimedia_Hackathon_2024_20240505_RSKY_07.jpg)
+![Image Alt Text]([https://commons.wikimedia.org/wiki/File:Wikimedia_Hackathon_2024_20240505_RSKY_07.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3a/Wikimedia_Hackathon_2024_20240505_RSKY_07.jpg))
 <br/>
 <small>*Creative Commons Attribution-Share Alike 4.0 International by Robert Sim*</small>
 
 The Wikimedia Hackathon 2024 has drawn to a close, marking an intensely thrilling week filled with innovation and collaboration. As the Blogging Coordinator, I had the privilege of being immersed in the heart of the action, capturing the dynamic energy and creativity that defined the event.
 
 ## Pre-Hackathon Anticipation:
-![Image Alt Text](https://commons.wikimedia.org/wiki/File:Wikimedia_Hackathon_2024-2-.jpg)
+![Image Alt Text](https://upload.wikimedia.org/wikipedia/commons/c/cf/Wikimedia_Hackathon_2024-2-.jpg)
 <br/>
 <small>*Creative Commons Attribution-Share Alike 4.0 International by Olari Pilnik*</small>
 
 The excitement began weeks before the event as I connected with eager volunteers keen on sharing participants' stories. We brainstormed blog post concepts, familiarized ourselves with the Phabricator task, and geared up to encapsulate the essence of the event.
 
 ## Day 1: Embracing the Energy:
-![Image Alt Text](https://commons.wikimedia.org/wiki/File:Wikimedia_Hackathon_2024_2.jpg)
+![Image Alt Text](https://upload.wikimedia.org/wikipedia/commons/1/15/Wikimedia_Hackathon_2024_2.jpg)
 <br/>
 
 The inaugural day buzzed with activity. Volunteers meticulously documented the opening ceremony, team formations, and the initial surge of creative fervor. The blogging team conversed with participants, delving into their project aspirations and driving motivations. The ambience was charged with an unmistakable sense of potential.
@@ -22,14 +22,14 @@ The inaugural day buzzed with activity. Volunteers meticulously documented the o
 *[Video Link for the Opening Ceremony](https://www.youtube.com/watch?v=Fd6cvBjXiVU)*
 
 ## Days 2 & 3: Immersive Exploration and Ingenuity:
-![Image Alt Text](https://commons.wikimedia.org/wiki/File:Wikimedia_Hackathon_2024_20240504_RSKY_14.jpg)
+![Image Alt Text](https://upload.wikimedia.org/wikipedia/commons/9/90/Wikimedia_Hackathon_2024_20240504_RSKY_14.jpg)
 <br/>
 <small>*Creative Commons Attribution-Share Alike 4.0 International by Robert Sim*</small>
 
 The subsequent days were dedicated to deep dives into the projects. Volunteers conducted insightful interviews with teams as their ideas crystallized into tangible prototypes. We observed the hurdles they overcame, the late-night brainstorming marathons, and the exhilarating breakthrough moments. Witnessing the participants' dedication and collaborative ethos was truly inspiring.
 
 ## Day 3: Celebrating the Achievements:
-![Image Alt Text](https://commons.wikimedia.org/wiki/File:Wikimedia_Hackathon_2024_20240504_RSKY_01.jpg)
+![Image Alt Text](https://upload.wikimedia.org/wikipedia/commons/2/2b/Wikimedia_Hackathon_2024_20240504_RSKY_01.jpg)
 <br/>
 <small>*Creative Commons Attribution-Share Alike 4.0 International by Robert Sim*</small>
 
