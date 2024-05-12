@@ -1,6 +1,6 @@
 # Capturing Creativity: Chronicles of the Wikimedia Hackathon 2024
 
-![Image Alt Text](https://commons.wikimedia.org/wiki/File:Wikimedia_Hackathon_2024_20240505_RSKY_07.jpg)
+![blog images/Wikimedia_Hackathon_2024_20240505_RSKY_07.jpg]
 <br/>
 <small>*Creative Commons Attribution-Share Alike 4.0 International by Robert Sim*</small>
 
