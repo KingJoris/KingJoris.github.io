@@ -48,7 +48,7 @@ The momentum didn't wane after the last presentation. Our volunteers are now imm
 
 Coordinating the blogging team transcended mere task management. It was about nurturing a sense of community among our volunteers and amplifying the participants' voices. It was about capturing the human narratives behind the code, the late-night hack-fueled brainstorming sessions, and the enduring friendships forged in the collaborative spirit of the hackathon.
 
-*[Find the link to the projects developed here](https://etherpad.wikimedia.org/p/wmh2024-Wikimedia_Hackathon_2024_Closing)*
+*[Find the link to the projects developed here](https://phabricator.wikimedia.org/T361975)*
 
 ## A Heartfelt Expression of Gratitude:
 
